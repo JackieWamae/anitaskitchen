@@ -13,3 +13,17 @@
   font-size: 25px;
   font-style: italic;
 }
+
+.navbar ul {
+  list-style-type: none;
+
+}
+
+.navbar ul li {
+  display: inline;
+  margin: 40px;
+}
+
+.navbar #rightlist {
+  display: block;
+}

@@ -1,0 +1,15 @@
+.heading {
+  background-image: url("../assets/backgrounds/landing.jpg");
+  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+}
+
+#head {
+  font-family: 'Julius Sans One', sans-serif;
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+}

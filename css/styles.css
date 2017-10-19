@@ -37,6 +37,19 @@ div#lunch {
 
 h2#lunch {
   color: white;
-  text-align: -webkit-center;
+  text-align: center;
   margin-top: 50%
+}
+
+div#dinner {
+  background-image: url("../assets/foodtop/dinner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h2#dinner {
+  color: white;
+  text-align: center;
+  margin-top: 50%;
 }

@@ -14,16 +14,29 @@
   font-style: italic;
 }
 
-.navbar ul {
-  list-style-type: none;
 
+div#breakfast {
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.navbar ul li {
-  display: inline;
-  margin: 40px;
+h2#breakfast {
+color: white;
+text-align: center;
+margin-top: 50%;
 }
 
-.navbar #rightlist {
-  display: block;
+div#lunch {
+  background-image: url("../assets/foodtop/lunch.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h2#lunch {
+  color: white;
+  text-align: -webkit-center;
+  margin-top: 50%
 }

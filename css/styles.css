@@ -28,6 +28,10 @@ text-align: center;
 margin-top: 50%;
 }
 
+.breakfast:hover {
+  color: white;
+}
+
 div#lunch {
   background-image: url("../assets/foodtop/lunch.jpg");
   background-size: cover;

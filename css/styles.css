@@ -25,11 +25,12 @@ div#breakfast {
 h2#breakfast {
 color: white;
 text-align: center;
+font-family: 'Great Vibes', cursive;
 margin-top: 50%;
 }
 
-.breakfast:hover {
-  color: white;
+div#breakfast:hover {
+  color: black;
 }
 
 div#lunch {
@@ -42,6 +43,7 @@ div#lunch {
 h2#lunch {
   color: white;
   text-align: center;
+  font-family: 'Great Vibes', cursive;
   margin-top: 50%
 }
 
@@ -55,5 +57,17 @@ div#dinner {
 h2#dinner {
   color: white;
   text-align: center;
+  font-family: 'Great Vibes', cursive;
   margin-top: 50%;
+}
+
+h2#happyhour {
+  margin-bottom: 25%;
+  margin-top: 25%
+}
+
+h2#partytime {
+  margin-top: 25%;
+  margin-bottom: 25%
+
 }
